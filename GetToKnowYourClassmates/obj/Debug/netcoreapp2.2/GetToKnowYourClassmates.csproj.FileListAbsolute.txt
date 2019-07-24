@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.deps.json
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.dll
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.pdb
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.dll
+C:\Users\tweed\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.pdb
