@@ -33,13 +33,21 @@ namespace GetToKnowYourClassmates
                 Console.WriteLine("2. Hometown");
                 Console.WriteLine("3. Animal");
 
-                int input2 = UserInput2();
                 try
                 {
-                    //int input2 = UserInput2();
-                    DisplayFood(input2 - 1, favFood);
-                    DisplayTown(input2 - 1, homeTown);
-                    DisplayAnimal(input2 - 1, animal);
+                    int input2 = UserInput2();
+                    if (input2 == 1)
+                    {
+                        DisplayFood(input2 - 1, favFood);
+                    }
+                    else if (input2 == 2)
+                    {
+                        DisplayTown(input2 - 1, homeTown);
+                    }
+                    else if (input2 == 3)
+                    {
+                        DisplayAnimal(input2 - 1, animal);
+                    }
                 }
                 catch
                 {
